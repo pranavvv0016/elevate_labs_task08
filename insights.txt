@@ -1,0 +1,7 @@
+West region has the highest sales overall.
+
+Technology is the top-selling category, followed by Office Supplies.
+
+Sales show a seasonal increase in the later months of each year.
+
+Central region consistently underperforms compared to others.
